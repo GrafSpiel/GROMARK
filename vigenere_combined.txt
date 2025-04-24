@@ -1,0 +1,60 @@
+K4 Vigenere Wordlist Search Results
+Total results: 7
+================================================================================
+
+Rank 1:
+  Word: PACKAGE
+  Cipher: Standard Vigenere
+  Max Adjacent Matches: 3
+  Match Positions: 30-32
+  IC: 0.042311
+  Plaintext: ZBIHUITZGFKLVOZLGVBVSQLPLQKLCNEASMKEWRGSDMDSCAZTSLTHALOZTAUYNZXYYNLTNIKFNAWAZVZVJJWZTGIKHOWFEISAL
+
+Rank 2:
+  Word: PACKARD
+  Cipher: Standard Vigenere
+  Max Adjacent Matches: 3
+  Match Positions: 30-32
+  IC: 0.041237
+  Plaintext: ZBIHUXUZGFKLKPZLGVBKTQLPLQZMCNEASBLEWRGSSNDSCAZITLTHALDATAUYNOYYYNLTCJKFNAWPAVZVJJLATGIKHDXFEISAA
+
+Rank 3:
+  Word: ROCKS
+  Cipher: Periodic Forward Rotating
+  Max Adjacent Matches: 3
+  Match Positions: 58-60
+  IC: 0.041022
+  Plaintext: XNIHCAVEOQSBJBABQONZEOXPLZCNHVSIIAXRMBZEZYBECSILUQCVIBCPGQERLVJWKFDCFKHOBIMPPIPFFHSLREACQGQCNWAIA
+
+Rank 4:
+  Word: RACKS
+  Cipher: Periodic Forward Rotating
+  Max Adjacent Matches: 3
+  Match Positions: 58-60
+  IC: 0.039519
+  Plaintext: XBIHCOVEOQSBJBOBQOBZEOLPLZQNHVGIIAXRMBZSZYBSCSIZUQCJIBCDGQERLVJWYFDCTKHOPIMPDIPFTHSLREACQUQCNKAIA
+
+Rank 5:
+  Word: KAOLC
+  Cipher: Periodic Reverse Rotating
+  Max Adjacent Matches: 3
+  Match Positions: 22, 30-32
+  IC: 0.039089
+  Plaintext: EBWGSMNOSWJJRSAXXDRBWRAPLGQBGLEASEDIUJQEVFQIEKLOUQJJWASBYAIXCDRNKBKRJMZREIMWDWOVRZCPXVIKHGMJCACAD
+
+Rank 6:
+  Word: BICYCLE
+  Cipher: Periodic Reverse Rotating
+  Max Adjacent Matches: 3
+  Match Positions: 22, 26-28, 63, 65
+  IC: 0.038015
+  Plaintext: NTITSDTKFZSNZHDHHXZDUDANUIORTLVGRKMRYRFOIIKQGIOVVZLHMJJZEZOGPDQCUONRVKXULJOEFMXMPIUBGIIJDTSMCMAPN
+
+Rank 7:
+  Word: KAOLC
+  Cipher: Standard Vigenere
+  Max Adjacent Matches: 2
+  Match Positions: 24, 62-63
+  IC: 0.040593
+  Plaintext: EBWGSEXAVFKLNHMBIRQZMFXGTGQBGLWKEHMJWFFQZQEHCAZLLYJJWASTIMLGDFNCWFVFIKPFBZUWDWOVJJOSGWKGWSQUQZAQR
+

@@ -1,0 +1,23 @@
+Checkpoint - 52030 results found
+================================================================================
+
+Rank 1: CORALDAGGER + 58664 = 7 matches, IC=0.040163
+Rank 2: CORAL + 58664 = 7 matches, IC=0.039089
+Rank 3: CORALA + 58664 = 7 matches, IC=0.039089
+Rank 4: CORALB + 58664 = 7 matches, IC=0.039089
+Rank 5: CORALC + 58664 = 7 matches, IC=0.039089
+Rank 6: CORALL + 58664 = 7 matches, IC=0.039089
+Rank 7: CORALO + 58664 = 7 matches, IC=0.039089
+Rank 8: CORALR + 58664 = 7 matches, IC=0.039089
+Rank 9: CORAL + 58664 = 7 matches, IC=0.039089
+Rank 10: CORRAL + 58664 = 7 matches, IC=0.039089
+Rank 11: CORAL + 58664 = 7 matches, IC=0.039089
+Rank 12: CORALLA + 58664 = 7 matches, IC=0.039089
+Rank 13: CAROL + 58664 = 7 matches, IC=0.038445
+Rank 14: CARROLL + 58664 = 7 matches, IC=0.038445
+Rank 15: CORELLE + 58664 = 7 matches, IC=0.037586
+Rank 16: CORELLA + 58664 = 7 matches, IC=0.037586
+Rank 17: CORELLE + 58664 = 7 matches, IC=0.037586
+Rank 18: COREL + 58664 = 7 matches, IC=0.037586
+Rank 19: CORELLA + 58664 = 7 matches, IC=0.037586
+Rank 20: COREL + 58664 = 7 matches, IC=0.037586

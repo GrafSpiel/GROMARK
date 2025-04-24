@@ -1,0 +1,12 @@
+K4 Vigenere Wordlist Search Results
+Total results: 1
+================================================================================
+
+Rank 1:
+  Word: CORALDAGGER
+  Cipher: Periodic Reverse Rotating
+  Max Adjacent Matches: 2
+  Match Positions: 24, 59-60
+  IC: 0.037156
+  Plaintext: MNTRJLXIADDUZEXLXCBVQBHATCZPGKGEMMKCUFZSYNSMYEVIUMCJZIUDCUSRLRKNNMSTNGVONWFGSZWXNDYMGSTUHJXUYEYJP
+

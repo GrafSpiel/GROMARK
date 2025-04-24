@@ -1,0 +1,2004 @@
+K4 Comprehensive Keyword Search Results
+Total results: 52479
+================================================================================
+
+Rank 1:
+  Keyword: CORALDAGGER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.040163
+  Plaintext: GQLYYUYAGGCATMOJDYTQARDRMPSITRDIWKYZLLUGGOGKJHSFJVZDIYVDVORTKSCERVMNREWCKGUDXLRMZXRGWFNXZBUALDTGY...
+
+Rank 2:
+  Keyword: CORAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 3:
+  Keyword: CORALA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 4:
+  Keyword: CORALB
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 5:
+  Keyword: CORALC
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 6:
+  Keyword: CORALL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 7:
+  Keyword: CORALO
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 8:
+  Keyword: CORALR
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 9:
+  Keyword: CORAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 10:
+  Keyword: CORRAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 11:
+  Keyword: CORAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 12:
+  Keyword: CORALLA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.039089
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXZBUALDTJY...
+
+Rank 13:
+  Keyword: CAROL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSIVRBIWKYZLLUGJOGKJHSEJVZEIYXBXORVKSCERVMNRHWCKGUBVLRMZYRGWGNZZZUALDTJY...
+
+Rank 14:
+  Keyword: CARROLL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: GQLYYUYAGDCATMOICYTQARDRMPSIVRBIWKYZLLUGJOGKJHSEJVZEIYXBXORVKSCERVMNRHWCKGUBVLRMZYRGWGNZZZUALDTJY...
+
+Rank 15:
+  Keyword: CORELLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037586
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRFIWKYZLLUGJOGKJDSEJVZFIYVFVORTKSCERVMNRHWCKGUFZLRMZZRGWHNXVDUALZTJY...
+
+Rank 16:
+  Keyword: CORELLA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037586
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRFIWKYZLLUGJOGKJDSEJVZFIYVFVORTKSCERVMNRHWCKGUFZLRMZZRGWHNXVDUALZTJY...
+
+Rank 17:
+  Keyword: CORELLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037586
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRFIWKYZLLUGJOGKJDSEJVZFIYVFVORTKSCERVMNRHWCKGUFZLRMZZRGWHNXVDUALZTJY...
+
+Rank 18:
+  Keyword: COREL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037586
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRFIWKYZLLUGJOGKJDSEJVZFIYVFVORTKSCERVMNRHWCKGUFZLRMZZRGWHNXVDUALZTJY...
+
+Rank 19:
+  Keyword: CORELLA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037586
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRFIWKYZLLUGJOGKJDSEJVZFIYVFVORTKSCERVMNRHWCKGUFZLRMZZRGWHNXVDUALZTJY...
+
+Rank 20:
+  Keyword: COREL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037586
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRFIWKYZLLUGJOGKJDSEJVZFIYVFVORTKSCERVMNRHWCKGUFZLRMZZRGWHNXVDUALZTJY...
+
+Rank 21:
+  Keyword: CORALED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037156
+  Plaintext: GQLYYUYAGFCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJFSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXXBUALBTJY...
+
+Rank 22:
+  Keyword: CORRALLED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.037156
+  Plaintext: GQLYYUYAGFCATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJFSEJVZEIYVDVORTKSCERVMNRHWCKGUDXLRMZYRGWGNXXBUALBTJY...
+
+Rank 23:
+  Keyword: CORALG
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.036942
+  Plaintext: GQLYYUYAGECATMOJDYTQARDRMPSITRDIWKYZLLUGFOGKJISFJVZFIYVDVORTKSCERVMNRDWCKGUDXLRMZZRGWHNXABUALETFY...
+
+Rank 24:
+  Keyword: CORALD
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.036727
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZDIYVDVORTKSCERVMNRHWCKGUDXLRMZXRGWFNXZBUALDTJY...
+
+Rank 25:
+  Keyword: CORALDO
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.036727
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJHSEJVZDIYVDVORTKSCERVMNRHWCKGUDXLRMZXRGWFNXZBUALDTJY...
+
+Rank 26:
+  Keyword: CORALF
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.035868
+  Plaintext: GQLYYUYAGECATMOFZYTQARDRMPSITRDIWKYZLLUGJOGKJISBJVZFIYVDVORTKSCERVMNRHWCKGUDXLRMZZRGWHNXABUALETJY...
+
+Rank 27:
+  Keyword: CORALE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.035223
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJFSEJVZFIYVDVORTKSCERVMNRHWCKGUDXLRMZZRGWHNXXBUALBTJY...
+
+Rank 28:
+  Keyword: CORACLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.035223
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJFSEJVZFIYVDVORTKSCERVMNRHWCKGUDXLRMZZRGWHNXXBUALBTJY...
+
+Rank 29:
+  Keyword: CORACLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 29.17% (7/24)
+  Matched positions: [11, 20, 63, 64, 67, 71, 72]
+  IC: 0.035223
+  Plaintext: GQLYYUYAGECATMOICYTQARDRMPSITRDIWKYZLLUGJOGKJFSEJVZFIYVDVORTKSCERVMNRHWCKGUDXLRMZZRGWHNXXBUALBTJY...
+
+Rank 30:
+  Keyword: ADVENTURES
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Minor differences analysis
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 13, 17, 62, 63]
+  IC: 0.043814
+  Plaintext: ORUBEUUKWJEAETZNITGVOHLEXNESUAFGGEKKTZEGHFHRGIXRRSNJMIZBUYEVVBBEOIVDNOXVNOKKFZUCNNAWLXAYFNXIGOSSE...
+
+Rank 31:
+  Keyword: INFECTION
+  Primer: 26717 [2, 6, 7, 1, 7] - Equivalent primer 1
+  Pattern: Standard keyword alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [13, 17, 19, 65, 68, 72]
+  IC: 0.043600
+  Plaintext: ECGRNDTEDILJCTDLTTGERVHNNPIPNWILOKDEWXQQJMTRAKWYUFEDIFOJRYTTTWFUXLTXCGSTKJRJEMTPELXGAIKPIRBUWEZAK...
+
+Rank 32:
+  Keyword: APPAREL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 63, 64, 67, 71, 72]
+  IC: 0.042526
+  Plaintext: GQLYYUYAGDCATXOICYTQGRDRXPSIIRAIWKYZLLUGJOGVJDSEJVZFIYKAKORIKYCERVXNRHWCKGAAULRMZZRGCHNMVYUALZTJY...
+
+Rank 33:
+  Keyword: CORRELLIA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.041452
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRGJWKYZLLUGKOGKJDSFJVZGJYVGVORTLSDFRVMNRIWCKHUGALRMZARGWINXVEUALZTKY...
+
+Rank 34:
+  Keyword: CORELLIA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.041452
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRGJWKYZLLUGKOGKJDSFJVZGJYVGVORTLSDFRVMNRIWCKHUGALRMZARGWINXVEUALZTKY...
+
+Rank 35:
+  Keyword: CORELLI
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.041452
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRGJWKYZLLUGKOGKJDSFJVZGJYVGVORTLSDFRVMNRIWCKHUGALRMZARGWINXVEUALZTKY...
+
+Rank 36:
+  Keyword: INFECTED
+  Primer: 26717 [2, 6, 7, 1, 7] - Equivalent primer 1
+  Pattern: Standard keyword alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [13, 17, 19, 65, 68, 72]
+  IC: 0.041237
+  Plaintext: NCFRNMTNCHLICTMKTTGERVGNNPIPNWHKOKMEWXQQIMTRAJWYUFECHEOGRYTTTWFUXLTXCFSTKIRIBLTPEKXDAHJPHRBUWDZAK...
+
+Rank 37:
+  Keyword: LYBONREHC
+  Primer: 84393 [8, 4, 3, 9, 3] - Equivalent primer 2
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 63, 69, 72]
+  IC: 0.041022
+  Plaintext: FXPRCOZSNVEASROEIZOVDWKTPWWFYPBZWPTQSQOJFSQJIZQCKQQJCEZJCUNAFEAENRJQSLUZKBDAEJQTQBWHICLYZCRFMFUJY...
+
+Rank 38:
+  Keyword: CORPORA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.041022
+  Plaintext: GQLIYUYKHDCATZOICITQARDRZQSITREIWLIZLLUHJOHXJHSEJVZEIYVEVORTKSCERVZNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 39:
+  Keyword: COROP
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.041022
+  Plaintext: GQLIYUYKHDCATZOICITQARDRZQSITREIWLIZLLUHJOHXJHSEJVZEIYVEVORTKSCERVZNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 40:
+  Keyword: CORRP
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.041022
+  Plaintext: GQLIYUYKHDCATZOICITQARDRZQSITREIWLIZLLUHJOHXJHSEJVZEIYVEVORTKSCERVZNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 41:
+  Keyword: COREFERENCE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.040808
+  Plaintext: GQLIYUYKHFCATMOEYITQARDRMFSITRGIWLIZLLUHJOHKJDSAJVZGIYVGVORTKSCERVMNRHWMKGUGALRMZARGWINXVEUALZTJI...
+
+Rank 42:
+  Keyword: CORMO
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.040808
+  Plaintext: GQLIYUYKVDCATMOICITQARDRMPSITREIWZIZLLUVJOVKJHSEJVZEIYVEVORTKSCERVMNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 43:
+  Keyword: CONCERN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.040593
+  Plaintext: GQLIAUAKHEECTMOICITQARDRMCSITRFIWLIZLLUHJOHKJDSEJVZFIAVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUCLZTJI...
+
+Rank 44:
+  Keyword: CONCERNED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.040378
+  Plaintext: GQLIAUAKHFECTMOICITQARDRMCSITRGIWLIZLLUHJOHKJDSEJVZDIAVGVORTKSCERVMNRHWMKGUGALRMZXRGWFNXVEUCLZTJI...
+
+Rank 45:
+  Keyword: CORONA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.040378
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMDSITREIWLIZLLUHJOHKJHSEJVZEIYVEVORTKSCERVMNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 46:
+  Keyword: CORNO
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.040378
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMDSITREIWLIZLLUHJOHKJHSEJVZEIYVEVORTKSCERVMNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 47:
+  Keyword: CORON
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.040378
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMDSITREIWLIZLLUHJOHKJHSEJVZEIYVEVORTKSCERVMNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 48:
+  Keyword: CORBEL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.040163
+  Plaintext: GQLZYUYBGBCATMOICZTQARDRMPSITRGIWKZZLLUGJOGKJESEJVZFIYVGVORTKSCERVMNRHWDKGUGALRMZZRGWHNXWEUALATJZ...
+
+Rank 49:
+  Keyword: CARMEN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039948
+  Plaintext: GQLIYUYKVECATMOICITQARDRMFSIHRBIWZIZLLUVJOVKJESEJVZFIYJBJORHKSCERVMNRHWMKGUBVLRMZZRGWHNLWZUALATJI...
+
+Rank 50:
+  Keyword: COMMERCE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.039948
+  Plaintext: GQLIAUAKUEECTMOICITQARDRMPSITRFIWYIZLLUUJOUKJDSEJVZFIAVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUCLZTJI...
+
+Rank 51:
+  Keyword: CORALK
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.039948
+  Plaintext: GRLZOUNKGBSASNOIEYSRAQFRXBSIIRZKWAIZKWUWLOWLBHTFIWZYKYJGVNSTKZDESVXYRHXCKIUZALQNZSVHCINLBBTQDDXKZ...
+
+Rank 52:
+  Keyword: CORALM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.039948
+  Plaintext: GRLIOUNBXBSASNOIEYSRAQFRXBSIIRZKWAZZKWUWLOWLKHTFIWZYKYJGVNSTKZDESVXYRHXCKIUZALQNZSVHCINLBBTQMDXKI...
+
+Rank 53:
+  Keyword: CORALQ
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.039948
+  Plaintext: GRZIOUBLHBSASBOIEYSRAQFRXBSIJRZKWAJZLWUWLOWZKHTFJWZYKYKGVNSTKZDESVXYRHXCKIUZAZQNZSVHCIBMBBTQMDXKI...
+
+Rank 54:
+  Keyword: CORPE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039948
+  Plaintext: GQLIYUYKHECATZOICITQARDRZQSITRFIWLIZLLUHJOHXJESEJVZFIYVFVORTKSCERVZNRHWMKGUFZLRMZZRGWHNXWDUALATJI...
+
+Rank 55:
+  Keyword: ENQUIRY
+  Primer: 84393 [8, 4, 3, 9, 3] - Equivalent primer 2
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 13, 69, 72]
+  IC: 0.039948
+  Plaintext: WCZHCWZIOBEASTWEIPOAEWBTRTWFNQZFBQJQCAOKFSRLITQCUQQJIEOHRCOPLFGKNRLASLUPKHEYCTRBQBWHJCVNTAZFMZUJO...
+
+Rank 56:
+  Keyword: CIRCLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 22, 63, 64, 67]
+  IC: 0.039734
+  Plaintext: WQLXYUYZFECATMOICXTQARTRMOSHHRFIWJXZLLUFJOFKIESEJVZFIYJFJORHKSCERVMNRHWBJGUFZLRMZZRFWHNLWDUAKATJX...
+
+Rank 57:
+  Keyword: CIRCLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 22, 63, 64, 67]
+  IC: 0.039734
+  Plaintext: WQLXYUYZFECATMOICXTQARTRMOSHHRFIWJXZLLUFJOFKIESEJVZFIYJFJORHKSCERVMNRHWBJGUFZLRMZZRFWHNLWDUAKATJX...
+
+Rank 58:
+  Keyword: CORALJ
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.039734
+  Plaintext: GRLHOUNKGBSASNOIEYSRAQXRXBSIIRZKWAIZKWUWLOWLJHTFIWZYKYJGVNSTKZDESVXYRHXCKIUZALQNZSVZCINLBBTQLDXKH...
+
+Rank 59:
+  Keyword: CORALN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.039734
+  Plaintext: GRLIOUNLHBSASNOIEYSRAQFRXBSIIRZKWAJZKWUWLOWLKHTFIWZYKYZGVNSTKZDESVXYRHXCKIUZALQNZSVHCINBBBTQMDXKI...
+
+Rank 60:
+  Keyword: CORALDOM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.039734
+  Plaintext: GRLIOUNCYBSASNOIEYSRAQFRXBSIIRZKWAAZKWUWLOWLKFTFIWZYKYJHVNSTKXDESVXYRHXCKIUZBLQNZSVHDINLBBTQMBXKI...
+
+Rank 61:
+  Keyword: CORDELLED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039734
+  Plaintext: GQLZYUYBGFCATMOICZTQARDRMPSITRGIWKZZLLUGJOGKJESEJVZBIYVGVORTKSCERVMNRHWDKGUGALRMZVRGWDNXWEUALATJZ...
+
+Rank 62:
+  Keyword: CORDELLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039734
+  Plaintext: GQLZYUYBGFCATMOICZTQARDRMPSITRGIWKZZLLUGJOGKJESEJVZBIYVGVORTKSCERVMNRHWDKGUGALRMZVRGWDNXWEUALATJZ...
+
+Rank 63:
+  Keyword: CORDEL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039734
+  Plaintext: GQLZYUYBGFCATMOICZTQARDRMPSITRGIWKZZLLUGJOGKJESEJVZBIYVGVORTKSCERVMNRHWDKGUGALRMZVRGWDNXWEUALATJZ...
+
+Rank 64:
+  Keyword: DEFINITION
+  Primer: 26717 [2, 6, 7, 1, 7] - Equivalent primer 1
+  Pattern: Standard keyword alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [13, 17, 19, 65, 68, 72]
+  IC: 0.039734
+  Plaintext: ECGRNDTEDILJCTDLWTGERVHNNPIPNZILOKDEWXQQJMTRYKWYUFEDIFOAUYTWWWFXXLTXCGSTKJRJVMTPELCXDIKPIRBUUEEAK...
+
+Rank 65:
+  Keyword: COREPER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039519
+  Plaintext: GQLIYUYKHECATAOICITQARDRAQSITRFIWLIZLLUHJOHYJDSEJVZFIYVFVORTKSCERVANRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 66:
+  Keyword: COREP
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039519
+  Plaintext: GQLIYUYKHECATAOICITQARDRAQSITRFIWLIZLLUHJOHYJDSEJVZFIYVFVORTKSCERVANRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 67:
+  Keyword: CORIL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.039519
+  Plaintext: YQLYYUYAGECATMOJDYTQARVRMPSITRFJWKYZLLUGKOGKJISFJVZFJYVFVORTLSDFRVMNRIWCKHUFZLRMZZRGWHNXADUALETKY...
+
+Rank 68:
+  Keyword: COREP
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039519
+  Plaintext: GQLIYUYKHECATAOICITQARDRAQSITRFIWLIZLLUHJOHYJDSEJVZFIYVFVORTKSCERVANRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 69:
+  Keyword: INFILTRATION
+  Primer: 84393 [8, 4, 3, 9, 3] - Equivalent primer 2
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 14, 69, 71, 72]
+  IC: 0.039304
+  Plaintext: SUPUCNZVNBEARRNVZCNSEWXSPTVFCZYFTPWQSQNJFRQJIEPTKPQJIEDGGTXELFGKMQJQSLTCKHEXBJASQBWHJCLCEZQFMKUJB...
+
+Rank 70:
+  Keyword: CARBON
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039304
+  Plaintext: GQLIYUYKHBCATMOICITQARDRMFSIWRBIWLIZLLUHJOHKJHSEJVZEIYYBYORWKSCERVMNRHWMKGUBVLRMZYRGWGNAZZUALDTJI...
+
+Rank 71:
+  Keyword: CORALLIDAE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.039304
+  Plaintext: AQLYYUYAGGCATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJHSFJVZEJYVDVORTLSDFRVMNRIWCKHUDXLRMZYRGWGNXZBUALDTKY...
+
+Rank 72:
+  Keyword: CORBAN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039304
+  Plaintext: GQLIYUYKHBCATMOICITQARDRMFSITREIWLIZLLUHJOHKJHSEJVZEIYVEVORTKSCERVMNRHWMKGUEYLRMZYRGWGNXZCUALDTJI...
+
+Rank 73:
+  Keyword: COREN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHECATMOICITQARDRMESITRFIWLIZLLUHJOHKJDSEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 74:
+  Keyword: CORACAN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMESITRDIWLIZLLUHJOHKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 75:
+  Keyword: CORANA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMESITRDIWLIZLLUHJOHKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 76:
+  Keyword: CORANN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMESITRDIWLIZLLUHJOHKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 77:
+  Keyword: CORAN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMESITRDIWLIZLLUHJOHKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 78:
+  Keyword: CORANA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMESITRDIWLIZLLUHJOHKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 79:
+  Keyword: CORANN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMESITRDIWLIZLLUHJOHKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 80:
+  Keyword: CORAN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHDCATMOICITQARDRMESITRDIWLIZLLUHJOHKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 81:
+  Keyword: COREN
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.039089
+  Plaintext: GQLIYUYKHECATMOICITQARDRMESITRFIWLIZLLUHJOHKJDSEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 82:
+  Keyword: CORTS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.039089
+  Plaintext: GRNIAUPMIDEASPOIEJSRAQFRXBSIKBZKWLKZMWUHLOHNKHTFKWZYKYLGVXSTKZDESVXYRHXNKIUZANCNZSXHCIPNBDDCMDZKI...
+
+Rank 83:
+  Keyword: COPPER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.038875
+  Plaintext: GQLIAUAKHEECTYOICITQARDRYQSITRFIWLIZLLUHJOHWJDSEJVZFIAVFVORTKSCERVYNRHWMKGUFZLRMZZRGWHNXVDUCLZTJI...
+
+Rank 84:
+  Keyword: COOPER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.038875
+  Plaintext: GQLIAUAKHEECTYOICITQARDRYQSITRFIWLIZLLUHJOHWJDSEJVZFIAVFVORTKSCERVYNRHWMKGUFZLRMZZRGWHNXVDUCLZTJI...
+
+Rank 85:
+  Keyword: COPPER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.038875
+  Plaintext: GQLIAUAKHEECTYOICITQARDRYQSITRFIWLIZLLUHJOHWJDSEJVZFIAVFVORTKSCERVYNRHWMKGUFZLRMZZRGWHNXVDUCLZTJI...
+
+Rank 86:
+  Keyword: CORESTATES
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.038875
+  Plaintext: GRNIAUPMIEEASPODEJSRAQFRXBSIKDZKWLKZMWUHLOHNKITFKWZYKYLHVZSTKADESVXYRHXNKIUZBNCNZSYHDDPNBEFCMEAKI...
+
+Rank 87:
+  Keyword: CORESET
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.038875
+  Plaintext: GRNIAUPMIEEASPODEJSRAQFRXBSIKDZKWLKZMWUHLOHNKITFKWZYKYLHVZSTKADESVXYRHXNKIUZBNCNZSYHDDPNBEFCMEAKI...
+
+Rank 88:
+  Keyword: CORESTA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.038875
+  Plaintext: GRNIAUPMIEEASPODEJSRAQFRXBSIKDZKWLKZMWUHLOHNKITFKWZYKYLHVZSTKADESVXYRHXNKIUZBNCNZSYHDDPNBEFCMEAKI...
+
+Rank 89:
+  Keyword: MARBLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 63, 64, 67, 71, 72]
+  IC: 0.038875
+  Plaintext: GQLYYUYASBCATMOICYTQGRDRMOSIHRBIWWYZLLUSJOSKJFSEJVZFIYJBJORHKYCERVMNRHWCKGABVLRMZZRGCHNLXZUALBTJY...
+
+Rank 90:
+  Keyword: COLLAR
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLWAUAYGDECTMOICWTQARDRMPSITRDIWKWZLLUGJOGKJHSEJVZEIAVDVORTKSCERVMNRHWAKGUDXLRMZYRGWGNXZBUCLDTJW...
+
+Rank 91:
+  Keyword: CORALLANE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.038660
+  Plaintext: GRLIOUNLHBSASNOGEYSRAQFRXBSIIRZKWAJZKWUWLOWLKITFIWZYKYZHVNSTKADESVXYRHXCKIUZBLQNZSVHDGNBBBTQMEXKI...
+
+Rank 92:
+  Keyword: CORECOM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKWECATMOICITQARDRMPSITRFIWAIZLLUWJOWKJDSEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 93:
+  Keyword: COREMO
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKWECATMOICITQARDRMPSITRFIWAIZLLUWJOWKJDSEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 94:
+  Keyword: COREM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKWECATMOICITQARDRMPSITRFIWAIZLLUWJOWKJDSEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 95:
+  Keyword: CORAM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKWDCATMOICITQARDRMPSITRDIWAIZLLUWJOWKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 96:
+  Keyword: CORNERED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKHFCATMOICITQARDRMDSITRGIWLIZLLUHJOHKJESEJVZDIYVGVORTKSCERVMNRHWMKGUGALRMZXRGWFNXWEUALATJI...
+
+Rank 97:
+  Keyword: CORNED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKHFCATMOICITQARDRMDSITRGIWLIZLLUHJOHKJESEJVZDIYVGVORTKSCERVMNRHWMKGUGALRMZXRGWFNXWEUALATJI...
+
+Rank 98:
+  Keyword: CORDAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLZYUYBGECATMOICZTQARDRMPSITREIWKZZLLUGJOGKJHSEJVZBIYVEVORTKSCERVMNRHWDKGUEYLRMZVRGWDNXZCUALDTJZ...
+
+Rank 99:
+  Keyword: CORAM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKWDCATMOICITQARDRMPSITRDIWAIZLLUWJOWKJHSEJVZEIYVDVORTKSCERVMNRHWMKGUDXLRMZYRGWGNXZBUALDTJI...
+
+Rank 100:
+  Keyword: COREM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038660
+  Plaintext: GQLIYUYKWECATMOICITQARDRMPSITRFIWAIZLLUWJOWKJDSEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXVDUALZTJI...
+
+Rank 101:
+  Keyword: CORNER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLIYUYKHECATMOICITQARDRMDSITRFIWLIZLLUHJOHKJESEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXWDUALATJI...
+
+Rank 102:
+  Keyword: COOLER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLWAUAYGEECTMOICWTQARDRMPSITRFIWKWZLLUGJOGKJDSEJVZFIAVFVORTKSCERVMNRHWAKGUFZLRMZZRGWHNXVDUCLZTJW...
+
+Rank 103:
+  Keyword: CORALDREAM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.038445
+  Plaintext: GRLIOUNDZBSASNOGEYSRAQFRXBSIIRZKWABZKWUWLOWLKFTFIWZYKYJIVNSTKXDESVXYRHXCKIUZCLQNZSVHEGNLBBTQMBXKI...
+
+Rank 104:
+  Keyword: CORALLOIDAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJISFJVZEJYVDVORTLSDFRVMNRIWCKHUDXLRMZYRGWGNXABUALETKY...
+
+Rank 105:
+  Keyword: CORALLOID
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJISFJVZEJYVDVORTLSDFRVMNRIWCKHUDXLRMZYRGWGNXABUALETKY...
+
+Rank 106:
+  Keyword: CORALLOIDAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJISFJVZEJYVDVORTLSDFRVMNRIWCKHUDXLRMZYRGWGNXABUALETKY...
+
+Rank 107:
+  Keyword: CORALLOID
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJISFJVZEJYVDVORTLSDFRVMNRIWCKHUDXLRMZYRGWGNXABUALETKY...
+
+Rank 108:
+  Keyword: CORONER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLIYUYKHECATMOICITQARDRMDSITRFIWLIZLLUHJOHKJESEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXWDUALATJI...
+
+Rank 109:
+  Keyword: CORNCOB
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLIYUYKHCCATMOICITQARDRMDSITRFIWLIZLLUHJOHKJHSEJVZEIYVFVORTKSCERVMNRHWMKGUFZLRMZYRGWGNXZDUALDTJI...
+
+Rank 110:
+  Keyword: CORNAGE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLIYUYKHFCATMOJDITQARDRMDSITREIWLIZLLUHFOHKJGSFJVZGIYVEVORTKSCERVMNRDWMKGUEYLRMZARGWINXYCUALCTFI...
+
+Rank 111:
+  Keyword: CORNER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLIYUYKHECATMOICITQARDRMDSITRFIWLIZLLUHJOHKJESEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXWDUALATJI...
+
+Rank 112:
+  Keyword: CORNEA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLIYUYKHECATMOICITQARDRMDSITRFIWLIZLLUHJOHKJESEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXWDUALATJI...
+
+Rank 113:
+  Keyword: CORALLOID
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJISFJVZEJYVDVORTLSDFRVMNRIWCKHUDXLRMZYRGWGNXABUALETKY...
+
+Rank 114:
+  Keyword: CORALLOIDAL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.038445
+  Plaintext: AQLYYUYAGFCATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJISFJVZEJYVDVORTLSDFRVMNRIWCKHUDXLRMZYRGWGNXABUALETKY...
+
+Rank 115:
+  Keyword: CORNER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038445
+  Plaintext: GQLIYUYKHECATMOICITQARDRMDSITRFIWLIZLLUHJOHKJESEJVZFIYVFVORTKSCERVMNRHWMKGUFZLRMZZRGWHNXWDUALATJI...
+
+Rank 116:
+  Keyword: CORALP
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.038230
+  Plaintext: GRLIOUNLHBSASNOIEYSRAQFRXBSIXRZKWAJZZWUWLOWLKHTFXWZYKYKGVNSTKZDESVXYRHXCKIUZALQNZSVHCINMBBTQMDXKI...
+
+Rank 117:
+  Keyword: CORNBREAD
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038230
+  Plaintext: GQLIYUYKHCCATMOICITQARDRMDSITRGIWLIZLLUHJOHKJFSEJVZFIYVGVORTKSCERVMNRHWMKGUGALRMZZRGWHNXXEUALBTJI...
+
+Rank 118:
+  Keyword: CORONAE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038230
+  Plaintext: GQLIYUYKHECATMOICITQARDRMDSITREIWLIZLLUHJOHKJFSEJVZFIYVEVORTKSCERVMNRHWMKGUEYLRMZZRGWHNXXCUALBTJI...
+
+Rank 119:
+  Keyword: CORNS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.038230
+  Plaintext: GRMIAUOMIDEASOOIEJSRAQFRXBSIJRZKWLKZLWUHLOHMKHTFJWZYKYXGVNSTKZDESVXYRHXNKIUZAMCNZSXHCIOZBDTCMDZKI...
+
+Rank 120:
+  Keyword: CAMCORDER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.038015
+  Plaintext: GQLIAUAKUFECTMOICITQARDRMPSIVRBIWYIZLLUUJOUKJGSEJVZDIAXBXORVKSCERVMNRHWMKGUBVLRMZXRGWFNZYZUCLCTJI...
+
+Rank 121:
+  Keyword: COREDEEMED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038015
+  Plaintext: GQLIYUYKXFCATMOICITQARDRMPSITRGIWBIZLLUXJOXKJDSEJVZCIYVGVORTKSCERVMNRHWMKGUGALRMZWRGWENXVEUALZTJI...
+
+Rank 122:
+  Keyword: COREDEEM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038015
+  Plaintext: GQLIYUYKXFCATMOICITQARDRMPSITRGIWBIZLLUXJOXKJDSEJVZCIYVGVORTKSCERVMNRHWMKGUGALRMZWRGWENXVEUALZTJI...
+
+Rank 123:
+  Keyword: COREDEEMED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038015
+  Plaintext: GQLIYUYKXFCATMOICITQARDRMPSITRGIWBIZLLUXJOXKJDSEJVZCIYVGVORTKSCERVMNRHWMKGUGALRMZWRGWENXVEUALZTJI...
+
+Rank 124:
+  Keyword: COREDEEM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038015
+  Plaintext: GQLIYUYKXFCATMOICITQARDRMPSITRGIWBIZLLUXJOXKJDSEJVZCIYVGVORTKSCERVMNRHWMKGUGALRMZWRGWENXVEUALZTJI...
+
+Rank 125:
+  Keyword: CORNFED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038015
+  Plaintext: GQLIYUYKHGCATMOEYITQARDRMDSITRHIWLIZLLUHJOHKJFSAJVZEIYVHVORTKSCERVMNRHWMKGUHBLRMZYRGWGNXXFUALBTJI...
+
+Rank 126:
+  Keyword: CORRESP
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.038015
+  Plaintext: GRMIAUOMIEEASOODEJSRAQFRXBSIXRZKWLKZZWUHLOHMKITFXWZYKYLHVNSTKADESVXYRHXNKIUZBMCNZSYHDDONBETCMEAKI...
+
+Rank 127:
+  Keyword: CORDON
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.038015
+  Plaintext: GQLIYUYKHECATMOICITQARDRMESITRFIWLIZLLUHJOHKJHSEJVZBIYVFVORTKSCERVMNRHWMKGUFZLRMZVRGWDNXZDUALDTJI...
+
+Rank 128:
+  Keyword: HANDLES
+  Primer: 71688 [7, 1, 6, 8, 8] - Bean research primer 4
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [10, 21, 63, 67, 71, 72]
+  IC: 0.038015
+  Plaintext: TYLFYUOJKBEOPMODIEPUESMXKKQFOPWKSYOTHLOEASVQJVRBJVXCFOBYJNOHFCUEQRMNVHPCKEIRZNZOVIZMEWNUFTQZNBBIM...
+
+Rank 129:
+  Keyword: ABSOLUTE
+  Primer: 31861 [3, 1, 8, 6, 1] - Bean research primer 7
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [15, 22, 63, 66, 69, 72]
+  IC: 0.037801
+  Plaintext: GASGQEKDOZQSBDUOBAZRIZTMKDIKJFABIJUMRJDMAKPNOCWRJXPUUSMABAKBDLWEXCIJMLYWKBIYWUXMFOXSSZERLNRGZTQXK...
+
+Rank 130:
+  Keyword: ABSOLUTE
+  Primer: 31861 [3, 1, 8, 6, 1] - Bean research primer 7
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [15, 22, 63, 66, 69, 72]
+  IC: 0.037801
+  Plaintext: GASGQEKDOZQSBDUOBAZRIZTMKDIKJFABIJUMRJDMAKPNOCWRJXPUUSMABAKBDLWEXCIJMLYWKBIYWUXMFOXSSZERLNRGZTQXK...
+
+Rank 131:
+  Keyword: CLEARANCE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 20, 63, 64, 67, 72]
+  IC: 0.037801
+  Plaintext: GQLVAUAXGEECTMOICVTQARDRMFSIHRDIWKVZLLUGJOGKJCSEJVZFIAJDJORHKSCERVMNRHWZKGUDXLRMZZRGWHNLUBUCLYTJV...
+
+Rank 132:
+  Keyword: CORDONED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037801
+  Plaintext: GQLIYUYKHFCATMOICITQARDRMESITRGIWLIZLLUHJOHKJFSEJVZBIYVGVORTKSCERVMNRHWMKGUGALRMZVRGWDNXXEUALBTJI...
+
+Rank 133:
+  Keyword: CORFAM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037801
+  Plaintext: GQLIYUYKXECATMODXITQARDRMPSITREIWBIZLLUXJOXKJISZJVZFIYVEVORTKSCERVMNRHWMKGUEYLRMZZRGWHNXACUALETJI...
+
+Rank 134:
+  Keyword: CORBON
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037801
+  Plaintext: GQLIYUYKHBCATMOICITQARDRMESITRFIWLIZLLUHJOHKJHSEJVZEIYVFVORTKSCERVMNRHWMKGUFZLRMZYRGWGNXZDUALDTJI...
+
+Rank 135:
+  Keyword: CORPS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037801
+  Plaintext: GRMIAUOMIDEASOOIEJSRAQFRXBSIVRZKWLKZXWUHLOHMKHTFVWZYKYLGVNSTKZDESVXYRHXNKIUZAMCNZSXHCIONBDTCMDZKI...
+
+Rank 136:
+  Keyword: CORPS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037801
+  Plaintext: GRMIAUOMIDEASOOIEJSRAQFRXBSIVRZKWLKZXWUHLOHMKHTFVWZYKYLGVNSTKZDESVXYRHXNKIUZAMCNZSXHCIONBDTCMDZKI...
+
+Rank 137:
+  Keyword: EMERALD
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 63, 64, 67, 71, 72]
+  IC: 0.037801
+  Plaintext: GQLYYUYATECATMOICYTQHRDRMOSIHRDIWXYZLLUTJOTKJASEJVZDIYJDJORHKZCERVMNRHWCKGBDXLRMZXRGDFNLSBUALWTJY...
+
+Rank 138:
+  Keyword: CORNDODGER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037586
+  Plaintext: GQLIYUYKHGCATMOJDITQARDRMDSITRHIWLIZLLUHFOHKJGSFJVZCIYVHVORTKSCERVMNRDWMKGUHBLRMZWRGWENXYFUALCTFI...
+
+Rank 139:
+  Keyword: CORKED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037586
+  Plaintext: GQLHYUYJGFCATMOICHTQARDRMPSITRGIWKHZLLUGJOGKZESEJVZDIYVGVORTKSCERVMNRHWLKGUGALRMZXRGWFNXWEUABATJH...
+
+Rank 140:
+  Keyword: CORTL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037586
+  Plaintext: GRMIPUOLHDTASOOIEYSRAQFRXBSIJBZKWAJZLWUWLOWMKHTFJWZYKYKGVXSTKZDESVXYRHXCKIUZAMRNZSXHCIOMBDDRMDZKI...
+
+Rank 141:
+  Keyword: BUTLER
+  Primer: 36833 [3, 6, 8, 3, 3] - Bean research primer 6
+  Pattern: Keyword plaintext alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 16, 22, 63, 72]
+  IC: 0.037371
+  Plaintext: HVTKOHSKEAHASKDGREWVNETGIKDGNDRGNFCGMMGMBCOGELSYVWHBCAHZDZJRARUEMGPJOCYYKEWUSFYOOBQWRATJTOXKBFVZD...
+
+Rank 142:
+  Keyword: CIRCULAR
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 22, 64, 71, 72]
+  IC: 0.037371
+  Plaintext: WQMYYDYAGECATNXJDYTQARTRNPSIISFJWKYZMMUGKOGLJISFKVZFJYKFKXSILSDFRVNORIWCKHUFZMSVZZRGWHOMADDALETKY...
+
+Rank 143:
+  Keyword: CORALH
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.037371
+  Plaintext: GQLYYUYAGECATMOJDYTQARDRMPSITRDDWKYZLLUGKOGKJISFJVZFDYVDVORTFSXZRVMNRIWCKBUDXLRMZZRGWHNXABUALETKY...
+
+Rank 144:
+  Keyword: CORELATED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037371
+  Plaintext: GRMIPUOLHDTASOODEYSRAQFRXBSIJEZKWAJZLWUWLOWMKHTFJWZYKYKIVASTKZDESVXYRHXCKIUZCMRNZSXHEDOMBDGRMDZKI...
+
+Rank 145:
+  Keyword: CORRELATED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037371
+  Plaintext: GRMIPUOLHDTASOODEYSRAQFRXBSIJEZKWAJZLWUWLOWMKHTFJWZYKYKIVASTKZDESVXYRHXCKIUZCMRNZSXHEDOMBDGRMDZKI...
+
+Rank 146:
+  Keyword: COROLLA
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037371
+  Plaintext: GQLXYUYZGDCATMOICXTQARDRMPSITREIWKXZLLUGJOGKJHSEJVZEIYVEVORTKSCERVMNRHWBKGUEYLRMZYRGWGNXZCUALDTJX...
+
+Rank 147:
+  Keyword: CORMS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037371
+  Plaintext: GRMIAUOZVDEASOOIEJSRAQFRXBSIJRZKWLXZLWUHLOHMKHTFJWZYKYKGVNSTKZDESVXYRHXNKIUZAMCNZSXHCIOMBDTCMDZKI...
+
+Rank 148:
+  Keyword: COROL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037371
+  Plaintext: GQLXYUYZGDCATMOICXTQARDRMPSITREIWKXZLLUGJOGKJHSEJVZEIYVEVORTKSCERVMNRHWBKGUEYLRMZYRGWGNXZCUALDTJX...
+
+Rank 149:
+  Keyword: DECLARATION
+  Primer: 84393 [8, 4, 3, 9, 3] - Equivalent primer 2
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 14, 69, 71, 72]
+  IC: 0.037371
+  Plaintext: ZUPUCNZVNDEARRNEICNSXWESPBVFDBWFTPWQSQNJFRQJIUPCKPQZIEEEHTZFLYGKMQJQSLTCKHXVZJCSQRWHCSLDUXQFMAUJB...
+
+Rank 150:
+  Keyword: DELEGATION
+  Primer: 26717 [2, 6, 7, 1, 7] - Equivalent primer 1
+  Pattern: Standard keyword alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [13, 18, 65, 68, 71, 72]
+  IC: 0.037371
+  Plaintext: FDHRNETFWJLXDTEZZCHFREVNNPIPNDBMOKEEWXQQKMTRYLWYUCEEJTOAXVTZAFGBXLTXCGSCKKRCVNTPEMDXGBLPJRYUUFFXK...
+
+Rank 151:
+  Keyword: LUTHER
+  Primer: 36833 [3, 6, 8, 3, 3] - Bean research primer 6
+  Pattern: Keyword plaintext alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 16, 22, 63, 72]
+  IC: 0.037371
+  Plaintext: GVTKOGSKEAGASKCFREWVNETFIKCFNCRFNDBFMMFMLBOFEHSYVWGLBAGZCZJRARUEMFPJOBYYKEWUSDYOOLQWRATJTOXKLDVZC...
+
+Rank 152:
+  Keyword: SIMILARLY
+  Primer: 84393 [8, 4, 3, 9, 3] - Equivalent primer 2
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 69, 71, 72]
+  IC: 0.037371
+  Plaintext: TCQUCOZVZAEASSOEICOADWYTQIWFMPWFBBWQTROVFSCKIDQCLQQIIENEQUNOLEGKNRKRSLUCKHDVZKQTQAWHIBMMDXRFMJUJB...
+
+Rank 153:
+  Keyword: WITHDRAWAL
+  Primer: 36833 [3, 6, 8, 3, 3] - Bean research primer 6
+  Pattern: Keyword plaintext alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 16, 22, 69, 72]
+  IC: 0.037371
+  Plaintext: FUTKOFSKDAFASKBERDVUNDTEGKBENBRENCLEMMEMWLOEDHSYUVFWLAFZBZJRARIDMEPJOLYYKDVISCYOOWQVRATJTOXKWCUZB...
+
+Rank 154:
+  Keyword: CORASON
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037156
+  Plaintext: GRMIAUOMIBEASOOIEJSRAQFRXBSIJRZKWLKZLWUHLOHMKHTFJWZYKYZGVNSTKZDESVXYRHXNKIUZAMCNZSVHCIOBBBTCMDXKI...
+
+Rank 155:
+  Keyword: CORELATE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037156
+  Plaintext: GRMIPUOLHDTASOODEYSRAQFRXBSIJEZKWAJZLWUWLOWMKITFJWZYKYKHVASTKADESVXYRHXCKIUZBMRNZSXHDDOMBDGRMEZKI...
+
+Rank 156:
+  Keyword: CORELESS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037156
+  Plaintext: GRMIBUOLHEFASOODEYSRAQFRXBSIJRZKWAJZLWUWLOWMKITFJWZYKYKHVNSTKADESVXYRHXCKIUZBMDNZSYHDDOMBETDMEAKI...
+
+Rank 157:
+  Keyword: CORESCEL
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037156
+  Plaintext: GRMIAUOLHEEASOODEZSRAQFRXBSIJRZKWBJZLWUXLOXMKITFJWZYKYKHVNSTKADESVXYRHXDKIUZBMCNZSYHDDOMBETCMEAKI...
+
+Rank 158:
+  Keyword: CORADCOM
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037156
+  Plaintext: GQLIYUYKXECATMOICITQARDRMPSITRDIWBIZLLUXJOXKJHSEJVZCIYVDVORTKSCERVMNRHWMKGUDXLRMZWRGWENXZBUALDTJI...
+
+Rank 159:
+  Keyword: CORADMO
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037156
+  Plaintext: GQLIYUYKXECATMOICITQARDRMPSITRDIWBIZLLUXJOXKJHSEJVZCIYVDVORTKSCERVMNRHWMKGUDXLRMZWRGWENXZBUALDTJI...
+
+Rank 160:
+  Keyword: CORAPE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.037156
+  Plaintext: GQLIYUYKHECATAOICITQARDRAQSITRDIWLIZLLUHJOHYJFSEJVZFIYVDVORTKSCERVANRHWMKGUDXLRMZZRGWHNXXBUALBTJI...
+
+Rank 161:
+  Keyword: CORRELATABLE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037156
+  Plaintext: GRMIPUOLHDTASOODEYSRAQFRXBSIJEZKWAJZLWUWLOWMKITFJWZYKYKHVASTKADESVXYRHXCKIUZBMRNZSXHDDOMBDGRMEZKI...
+
+Rank 162:
+  Keyword: CORRELATOR
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037156
+  Plaintext: GRMIPUOLHDTASOODEYSRAQFRXBSIJEZKWAJZLWUWLOWMKITFJWZYKYKHVASTKADESVXYRHXCKIUZBMRNZSXHDDOMBDGRMEZKI...
+
+Rank 163:
+  Keyword: CORRELATE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037156
+  Plaintext: GRMIPUOLHDTASOODEYSRAQFRXBSIJEZKWAJZLWUWLOWMKITFJWZYKYKHVASTKADESVXYRHXCKIUZBMRNZSXHDDOMBDGRMEZKI...
+
+Rank 164:
+  Keyword: CORELESS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037156
+  Plaintext: GRMIBUOLHEFASOODEYSRAQFRXBSIJRZKWAJZLWUWLOWMKITFJWZYKYKHVNSTKADESVXYRHXCKIUZBMDNZSYHDDOMBETDMEAKI...
+
+Rank 165:
+  Keyword: CORELATE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.037156
+  Plaintext: GRMIPUOLHDTASOODEYSRAQFRXBSIJEZKWAJZLWUWLOWMKITFJWZYKYKHVASTKADESVXYRHXCKIUZBMRNZSXHDDOMBDGRMEZKI...
+
+Rank 166:
+  Keyword: CORPSES
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037156
+  Plaintext: GRMIAUOMIEEASOOFEJSRAQFRXBSIVRZKWLKZXWUHLOHMKITFVWZYKYLHVNSTKADESVXYRHXNKIUZBMCNZSYHDFONBETCMEAKI...
+
+Rank 167:
+  Keyword: CORPSE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037156
+  Plaintext: GRMIAUOMIEEASOOFEJSRAQFRXBSIVRZKWLKZXWUHLOHMKITFVWZYKYLHVNSTKADESVXYRHXNKIUZBMCNZSYHDFONBETCMEAKI...
+
+Rank 168:
+  Keyword: CORKS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.037156
+  Plaintext: GRMXAUOLHDEASOOIEISRAQFRXBSIJRZKWKJZLWUGLOGMZHTFJWZYKYKGVNSTKZDESVXYRHXMKIUZAMCNZSXHCIOMBDTCBDZKX...
+
+Rank 169:
+  Keyword: CANDLES
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [20, 63, 64, 67, 71, 72]
+  IC: 0.036942
+  Plaintext: GQLYOUOAGFSQTMOICYTQARDRMCSIHRBIWKYZLLUGJOGKJFSEJVZBIOJBJORHKSCERVMNRHWCKGUBVLRMZVRGWDNLXZUQLBTJY...
+
+Rank 170:
+  Keyword: CORALI
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.036942
+  Plaintext: AQLYYUYAGECATMOJDYTQARXRMPSITRDJWKYZLLUGKOGKJISFJVZFJYVDVORTLSDFRVMNRIWCKHUDXLRMZZRGWHNXABUALETKY...
+
+Rank 171:
+  Keyword: CORPSED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.036942
+  Plaintext: GRMIAUOMIFEASOOFEJSRAQFRXBSIVRZKWLKZXWUHLOHMKGTFVWZYKYLIVNSTKYDESVXYRHXNKIUZCMCNZSZHEFONBFTCMCBKI...
+
+Rank 172:
+  Keyword: DOZEN
+  Primer: 28088 [2, 8, 0, 8, 8] - Bean research primer 8
+  Pattern: Standard keyword alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [13, 19, 64, 69, 71, 72]
+  IC: 0.036942
+  Plaintext: ZYNKNVYZFKTGATVMJCAEPEIMQRPQOCBHTTVUVMLRELTRVJCYPBUGLOTALBRJCEYCRMQMMLCCKJXDYFCSSEDALFHRGNZNDHZXS...
+
+Rank 173:
+  Keyword: CARLO
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.036727
+  Plaintext: GQLXYUYZGDCATMOICXTQARDRMPSIWRBIWKXZLLUGJOGKJHSEJVZEIYYBYORWKSCERVMNRHWBKGUBVLRMZYRGWGNAZZUALDTJX...
+
+Rank 174:
+  Keyword: CORALT
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036727
+  Plaintext: GRMIPUOLHBTASOOIEYSRAQFRXBSIJDZKWAJZLWUWLOWMKHTFJWZYKYKGVZSTKZDESVXYRHXCKIUZAMRNZSVHCIOMBBFRMDXKI...
+
+Rank 175:
+  Keyword: CORALDIGGER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 64, 67, 71, 72]
+  IC: 0.036727
+  Plaintext: BQLYYUYAGHCATMOKEYTQARYRMPSITRDJWKYZLLUGHOGKJISGJVZDJYVDVORTLSDFRVMNRFWCKHUDXLRMZXRGWFNXABUALETHY...
+
+Rank 176:
+  Keyword: CORALROOT
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036727
+  Plaintext: GRMIPUOLHBTASOOIEYSRAQFRXBSIJDZKWAJZLWUWLOWMKHTFJWZYKYKGVZSTKZDESVXYRHXCKIUZAMRNZSVHCIOMBBFRMDXKI...
+
+Rank 177:
+  Keyword: CORDLESSES
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036727
+  Plaintext: GRMICUOLHFGASOOFEYSRAQFRXBSIJRZKWAJZLWUWLOWMKDTFJWZYKYKIVNSTKVDESVXYRHXCKIUZCMENZSZHEFOMBFTEMZBKI...
+
+Rank 178:
+  Keyword: CORALROOT
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036727
+  Plaintext: GRMIPUOLHBTASOOIEYSRAQFRXBSIJDZKWAJZLWUWLOWMKHTFJWZYKYKGVZSTKZDESVXYRHXCKIUZAMRNZSVHCIOMBBFRMDXKI...
+
+Rank 179:
+  Keyword: CORBELLED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.036727
+  Plaintext: GQLZYUYBGBCATMOICZTQARDRMPSITRHIWKZZLLUGJOGKJESEJVZEIYVHVORTKSCERVMNRHWDKGUHBLRMZYRGWGNXWFUALATJZ...
+
+Rank 180:
+  Keyword: CORDLESS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036727
+  Plaintext: GRMICUOLHFGASOOFEYSRAQFRXBSIJRZKWAJZLWUWLOWMKDTFJWZYKYKIVNSTKVDESVXYRHXCKIUZCMENZSZHEFOMBFTEMZBKI...
+
+Rank 181:
+  Keyword: CORBELED
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.036727
+  Plaintext: GQLZYUYBGBCATMOICZTQARDRMPSITRHIWKZZLLUGJOGKJESEJVZEIYVHVORTKSCERVMNRHWDKGUHBLRMZYRGWGNXWFUALATJZ...
+
+Rank 182:
+  Keyword: CORALROOT
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036727
+  Plaintext: GRMIPUOLHBTASOOIEYSRAQFRXBSIJDZKWAJZLWUWLOWMKHTFJWZYKYKGVZSTKZDESVXYRHXCKIUZAMRNZSVHCIOMBBFRMDXKI...
+
+Rank 183:
+  Keyword: CORDLESS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036727
+  Plaintext: GRMICUOLHFGASOOFEYSRAQFRXBSIJRZKWAJZLWUWLOWMKDTFJWZYKYKIVNSTKVDESVXYRHXCKIUZCMENZSZHEFOMBFTEMZBKI...
+
+Rank 184:
+  Keyword: CORELLAS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036512
+  Plaintext: GRMICUOLHDGASOODEYSRAQFRXBSIJRZKWAJZLWUWLOWMKITFJWZYKYKHVNSTKADESVXYRHXCKIUZBMENZSXHDDOMBDTEMEZKI...
+
+Rank 185:
+  Keyword: CORKBOARD
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.036512
+  Plaintext: GQLHYUYJGCCATMOICHTQARDRMPSITRFIWKHZLLUGJOGKZHSEJVZEIYVFVORTKSCERVMNRHWLKGUFZLRMZYRGWGNXZDUABDTJH...
+
+Rank 186:
+  Keyword: CORMOSE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [10, 11, 12, 20, 63, 72]
+  IC: 0.036512
+  Plaintext: GRMIAUOZVEEASOOFEJSRAQFRXBSIJRZKWLXZLWUHLOHMKITFJWZYKYKHVNSTKADESVXYRHXNKIUZBMCNZSYHDFOMBETCMEAKI...
+
+Rank 187:
+  Keyword: LOGITECH
+  Primer: 26717 [2, 6, 7, 1, 7] - Equivalent primer 1
+  Pattern: Standard keyword alphabet
+  Expansion: fibonacci
+  Match: 25.00% (6/24)
+  Matched positions: [13, 18, 22, 65, 71, 72]
+  IC: 0.036512
+  Plaintext: ZDGRNYTZVELVDTYXWCHFRETNNPIPNKALOKYDWWQQJMTRCKWYUGDDIROKUZTWHFGIXLTWBFSCKJRBFMTPDLZHDAKPERCUYEBBK...
+
+Rank 188:
+  Keyword: CORKAGE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.036297
+  Plaintext: GQLHYUYJGFCATMOJDHTQARDRMPSITREIWKHZLLUGFOGKZGSFJVZGIYVEVORTKSCERVMNRDWLKGUEYLRMZARGWINXYCUABCTFH...
+
+Rank 189:
+  Keyword: DEQUINHA
+  Primer: 31861 [3, 1, 8, 6, 1] - Bean research primer 7
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [13, 20, 21, 62, 66, 67]
+  IC: 0.036082
+  Plaintext: DYUHSWUKMZSJDTUTEJBSASHWKJTEORTVTKGWPNPMXVOBMYUFJVYFZJBFJUWJHZBFVOINWCWFEVARBXROQDCLCUZFHEOKIWYIL...
+
+Rank 190:
+  Keyword: CIRCULATION
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 22, 64, 69, 71]
+  IC: 0.036082
+  Plaintext: WQNYYDYAJHCATOXMGYTQARTROISLZEFMWNYZNNUJNOJMMLSILVZIMYBFBXEZOSGIRVOPRLWCNKUFZNEVZCRJWKPDDDDAOHTNY...
+
+Rank 191:
+  Keyword: CORALS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIBUOLHBFASOOIEYSRAQFRXBSIJRZKWAJZLWUWLOWMKHTFJWZYKYKGVNSTKZDESVXYRHXCKIUZAMDNZSVHCIOMBBTDMDXKI...
+
+Rank 192:
+  Keyword: CORALBELLS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIDUOLHBHASOOGEYSRAQFRXBSIJRZKWAJZLWUWLOWMKITFJWZYKYKFVNSTKADESVXYRHXCKIUZZMFNZSVHBGOMBBTFMEXKI...
+
+Rank 193:
+  Keyword: CORALS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIBUOLHBFASOOIEYSRAQFRXBSIJRZKWAJZLWUWLOWMKHTFJWZYKYKGVNSTKZDESVXYRHXCKIUZAMDNZSVHCIOMBBTDMDXKI...
+
+Rank 194:
+  Keyword: CORALBELLS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIDUOLHBHASOOGEYSRAQFRXBSIJRZKWAJZLWUWLOWMKITFJWZYKYKFVNSTKADESVXYRHXCKIUZZMFNZSVHBGOMBBTFMEXKI...
+
+Rank 195:
+  Keyword: CORRALS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIBUOLHBFASOOIEYSRAQFRXBSIJRZKWAJZLWUWLOWMKHTFJWZYKYKGVNSTKZDESVXYRHXCKIUZAMDNZSVHCIOMBBTDMDXKI...
+
+Rank 196:
+  Keyword: CORKER
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.036082
+  Plaintext: GQLHYUYJGECATMOICHTQARDRMPSITRFIWKHZLLUGJOGKZESEJVZFIYVFVORTKSCERVMNRHWLKGUFZLRMZZRGWHNXWDUABATJH...
+
+Rank 197:
+  Keyword: CORALS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIBUOLHBFASOOIEYSRAQFRXBSIJRZKWAJZLWUWLOWMKHTFJWZYKYKGVNSTKZDESVXYRHXCKIUZAMDNZSVHCIOMBBTDMDXKI...
+
+Rank 198:
+  Keyword: CORKE
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + High IC pattern (6,3,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 20, 63, 64, 67, 72]
+  IC: 0.036082
+  Plaintext: GQLHYUYJGECATMOICHTQARDRMPSITRFIWKHZLLUGJOGKZESEJVZFIYVFVORTKSCERVMNRHWLKGUFZLRMZZRGWHNXWDUABATJH...
+
+Rank 199:
+  Keyword: CORALBELLS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIDUOLHBHASOOGEYSRAQFRXBSIJRZKWAJZLWUWLOWMKITFJWZYKYKFVNSTKADESVXYRHXCKIUZZMFNZSVHBGOMBBTFMEXKI...
+
+Rank 200:
+  Keyword: CORALS
+  Primer: 58664 [5, 8, 6, 6, 4] - Bean research primer 5
+  Pattern: Keyword + Modified best pattern (7,2,20)
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [11, 12, 20, 63, 71, 72]
+  IC: 0.036082
+  Plaintext: GRMIBUOLHBFASOOIEYSRAQFRXBSIJRZKWAJZLWUWLOWMKHTFJWZYKYKGVNSTKZDESVXYRHXCKIUZAMDNZSVHCIOMBBTDMDXKI...
+

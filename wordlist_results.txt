@@ -1,0 +1,1004 @@
+K4 Wordlist Explorer Results
+Total results: 954
+================================================================================
+
+Rank 1:
+  Keyword: WESTERN
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [13, 62, 63, 64, 65, 72]
+  IC: 0.034794
+  Plaintext: QBIDOKSPDLMQYTKJIIAYUFPYPRUQBZCKYTPBVWSTNUBBZMURXFZJGMSCNZTJEFBERLRAVQQKKGSEENSOXJHDGIPSJPXQXGFEZ...
+
+Rank 2:
+  Keyword: WESTERN
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 25.00% (6/24)
+  Matched positions: [13, 62, 63, 64, 65, 72]
+  IC: 0.034794
+  Plaintext: QBIDOKSPDLMQYTKJIIAYUFPYPRUQBZCKYTPBVWSTNUBBZMURXFZJGMSCNZTJEFBERLRAVQQKKGSEENSOXJHDGIPSJPXQXGFEZ...
+
+Rank 3:
+  Keyword: RULING
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 12, 63, 70, 71]
+  IC: 0.044244
+  Plaintext: KTLNMTNMHFKASJTDAAUQCTMRJNWAOOQYUTMXMTUTLWBRMGSDOXVDUWBAQNUMEEGEPNLXRKOCUUASCQMMTDFHAHSBIALOKADDJ...
+
+Rank 4:
+  Keyword: WELLINGTON
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [14, 63, 69, 70, 71]
+  IC: 0.044244
+  Plaintext: LTLONNNNIHLTMJNUAAOQETNRAEAAOAQYUTNXMMYTMABRNISEOXVFUPBCHZODEGHETOCQRLOCUUCSEQNNTFHICYSBJCXPLCFDK...
+
+Rank 5:
+  Keyword: RULING
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 12, 63, 70, 71]
+  IC: 0.044244
+  Plaintext: KTLNMTNMHFKASJTDAAUQCTMRJNWAOOQYUTMXMTUTLWBRMGSDOXVDUWBAQNUMEEGEPNLXRKOCUUASCQMMTDFHAHSBIALOKADDJ...
+
+Rank 6:
+  Keyword: WELLINGTON
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [14, 63, 69, 70, 71]
+  IC: 0.044244
+  Plaintext: LTLONNNNIHLTMJNUAAOQETNRAEAAOAQYUTNXMMYTMABRNISEOXVFUPBCHZODEGHETOCQRLOCUUCSEQNNTFHICYSBJCXPLCFDK...
+
+Rank 7:
+  Keyword: BYTES
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 67, 69]
+  IC: 0.043600
+  Plaintext: MQMQKNQIHCIUSGNEBMUNABHSXKXMLWYYXJIXXJVJGXROLHXAZUVEUQRRRRMNMUEMXOZNRLTOGUYATRQLTEWGBCTRXZPMJBUHM...
+
+Rank 8:
+  Keyword: BYTES
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 67, 69]
+  IC: 0.043600
+  Plaintext: MQMQKNQIHCIUSGNEBMUNABHSXKXMLWYYXJIXXJVJGXROLHXAZUVEUQRRRRMNMUEMXOZNRLTOGUYATRQLTEWGBCTRXZPMJBUHM...
+
+Rank 9:
+  Keyword: EXSEQUI
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.042311
+  Plaintext: QBHTXKWPDLVPYTKIAIAYRFOOPADQRLCJYTPTSOBTMDBBYLURUFRIFLBCFZQBQFBQRLRSNPQKKFPEEMSSPIHDYIOBJYXZWFFEP...
+
+Rank 10:
+  Keyword: EXSEQUI
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.042311
+  Plaintext: QBHTXKWPDLVPYTKIAIAYRFOOPADQRLCJYTPTSOBTMDBBYLURUFRIFLBCFZQBQFBQRLRSNPQKKFPEEMSSPIHDYIOBJYXZWFFEP...
+
+Rank 11:
+  Keyword: FEEDBACK
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: fibonacci
+  Match: 20.83% (5/24)
+  Matched positions: [12, 20, 22, 64, 71]
+  IC: 0.042096
+  Plaintext: JPJNHRQHFYFMSMRGYCWRAYTSKENLGOAZTGGYTFVMZRPKDFQZRSYYWILXFONHYTFZRQQFWBMCGXABSPQJYGPHACNMABROZZRAG...
+
+Rank 12:
+  Keyword: REVERSE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.041237
+  Plaintext: MWMQKNQIHAIAPGNEBMRTABHRWKWMLOYWUJIXPJUJGWROLHPARUVESWXQRQMNMUEMWUYNRLLOGSYASRPRTEVGBBTXCYOMJBTHM...
+
+Rank 13:
+  Keyword: REVERSE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.041237
+  Plaintext: MWMQKNQIHAIAPGNEBMRTABHRWKWMLOYWUJIXPJUJGWROLHPARUVESWXQRQMNMUEMWUYNRLLOGSYASRPRTEVGBBTXCYOMJBTHM...
+
+Rank 14:
+  Keyword: RELAY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 69, 71]
+  IC: 0.041022
+  Plaintext: AQLPJNQIGAHAVFNEBAXNABHSMKXLZOYWAIIXPIVIGXQNLHPARUVESWXRQRLMMUEMMOOMRLLCFSYATQQRTEWGBASXCXPLJBUHL...
+
+Rank 15:
+  Keyword: RELAY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 69, 71]
+  IC: 0.041022
+  Plaintext: AQLPJNQIGAHAVFNEBAXNABHSMKXLZOYWAIIXPIVIGXQNLHPARUVESWXRQRLMMUEMMOOMRLLCFSYATQQRTEWGBASXCXPLJBUHL...
+
+Rank 16:
+  Keyword: DISEQUILIBRIUMS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.040808
+  Plaintext: QBJHYKSPFNWGYTKZWKAYQHFCOBEQFLELYTPSRNCTOEBBBNURTJQKHCCTBDPXQHBQRLQRMIQMKHOGVOSOOKKUUKQCLZBAZHIID...
+
+Rank 17:
+  Keyword: DISEQUILIBRIUM
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.040808
+  Plaintext: QBJHYKSPFNWGYTKZWKAYQHFCOBEQFLELYTPSRNCTOEBBBNURTJQKHCCTBDPXQHBQRLQRMIQMKHOGVOSOOKKUUKQCLZBAZHIID...
+
+Rank 18:
+  Keyword: RELEVANCE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.040808
+  Plaintext: JTLNMNNMHDKAMJNUFAOQATMRJNWJOOQHUTMXMTUTKWBRMFSBOXVBDWCAQNOMJDFJPVLXRIOCDDYSCQMUTBDHAYSCGYLOKZBIJ...
+
+Rank 19:
+  Keyword: RELEVANCE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.040808
+  Plaintext: JTLNMNNMHDKAMJNUFAOQATMRJNWJOOQHUTMXMTUTKWBRMFSBOXVBDWCAQNOMJDFJPVLXRIOCDDYSCQMUTBDHAYSCGYLOKZBIJ...
+
+Rank 20:
+  Keyword: DISEQUILIBRIUM
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.040808
+  Plaintext: QBJHYKSPFNWGYTKZWKAYQHFCOBEQFLELYTPSRNCTOEBBBNURTJQKHCCTBDPXQHBQRLQRMIQMKHOGVOSOOKKUUKQCLZBAZHIID...
+
+Rank 21:
+  Keyword: DISEQUILIBRIUMS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.040808
+  Plaintext: QBJHYKSPFNWGYTKZWKAYQHFCOBEQFLELYTPSRNCTOEBBBNURTJQKHCCTBDPXQHBQRLQRMIQMKHOGVOSOOKKUUKQCLZBAZHIID...
+
+Rank 22:
+  Keyword: TYPE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 67, 69]
+  IC: 0.040593
+  Plaintext: MQLQKNQIHCITSGNEBMUNABHSNKXMLUYYXTIXVJVTGXBOLHVAXUVEUPQRRRLNMUEMNOPNRLROGUYATQQKTEWGBBSQCYPMJBUHM...
+
+Rank 23:
+  Keyword: TYPE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 67, 69]
+  IC: 0.040593
+  Plaintext: MQLQKNQIHCITSGNEBMUNABHSNKXMLUYYXTIXVJVTGXBOLHVAXUVEUPQRRRLNMUEMNOPNRLROGUYATQQKTEWGBBSQCYPMJBUHM...
+
+Rank 24:
+  Keyword: RELAX
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 69, 71]
+  IC: 0.040378
+  Plaintext: AQLPJNQIGAHAPFNEBARNABHYMKXLZOYWUIIXPIVIGXQNLHPARUVESWXXQXLMMUEMMOOMRLLCFSYAZQQRTEWGBASXCXVLJBUHL...
+
+Rank 25:
+  Keyword: ROVER
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.040378
+  Plaintext: MWLAUNQIHCSAPGNEBMRTABHRMKWMLOYYUIIXPJUIGWQOLHPARUVEUWXQBQLXMUEMMUONRLLOGUYASQPRTEVGBBSXCYOWJBTHW...
+
+Rank 26:
+  Keyword: RULE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 12, 20, 70, 71]
+  IC: 0.040378
+  Plaintext: ITLMMTNLGDKASJTWEAUQATLRJNWIOOQGUTLXMTUTJWBRLESAOXVBCWMYQNUMICEIPNLXRHOCCCYSAQMMTBDGYASMFYLOJYBHI...
+
+Rank 27:
+  Keyword: RELAX
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 69, 71]
+  IC: 0.040378
+  Plaintext: AQLPJNQIGAHAPFNEBARNABHYMKXLZOYWUIIXPIVIGXQNLHPARUVESWXXQXLMMUEMMOOMRLLCFSYAZQQRTEWGBASXCXVLJBUHL...
+
+Rank 28:
+  Keyword: RULE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Modification of best pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 12, 20, 70, 71]
+  IC: 0.040378
+  Plaintext: ITLMMTNLGDKASJTWEAUQATLRJNWIOOQGUTLXMTUTJWBRLESAOXVBCWMYQNUMICEIPNLXRHOCCCYSAQMMTBDGYASMFYLOJYBHI...
+
+Rank 29:
+  Keyword: ROVER
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.040378
+  Plaintext: MWLAUNQIHCSAPGNEBMRTABHRMKWMLOYYUIIXPJUIGWQOLHPARUVEUWXQBQLXMUEMMUONRLLOGUYASQPRTEVGBBSXCYOWJBTHW...
+
+Rank 30:
+  Keyword: RESERVE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.040163
+  Plaintext: MXMQKNQIHAIAPGNEBMRUABHRVKWMLOYWUJIXPJUJGWROLHPARUVESWXQRQMNMUEMVVXNRLLOGSYASRPRTEVGBBTXCYOMJBTHM...
+
+Rank 31:
+  Keyword: RESERVES
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.040163
+  Plaintext: MXMQKNQIHAIAPGNEBMRUABHRVKWMLOYWUJIXPJUJGWROLHPARUVESWXQRQMNMUEMVVXNRLLOGSYASRPRTEVGBBTXCYOMJBTHM...
+
+Rank 32:
+  Keyword: RESERVE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.040163
+  Plaintext: MXMQKNQIHAIAPGNEBMRUABHRVKWMLOYWUJIXPJUJGWROLHPARUVESWXQRQMNMUEMVVXNRLLOGSYASRPRTEVGBBTXCYOMJBTHM...
+
+Rank 33:
+  Keyword: RESERVES
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 67, 69]
+  IC: 0.040163
+  Plaintext: MXMQKNQIHAIAPGNEBMRUABHRVKWMLOYWUJIXPJUJGWROLHPARUVESWXQRQMNMUEMVVXNRLLOGSYASRPRTEVGBBTXCYOMJBTHM...
+
+Rank 34:
+  Keyword: LISTEN
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 13, 62, 63, 64]
+  IC: 0.039948
+  Plaintext: OBHSNISNDLLAYTITWIAYQFZNOPSOQZCJYTNBRWQTMSBBCLURTFZIFWRCBZPXEFBERJQAVOQKIFOEEMSOXIHDUIORJOXPAFFEO...
+
+Rank 35:
+  Keyword: LAWSUIT
+  Primer: [8, 4, 3, 9, 3] (10) - Alt primer - Bean's research
+  Pattern: Keyword + Variation with mod 2 = 25
+  Expansion: fibonacci
+  Match: 20.83% (5/24)
+  Matched positions: [12, 13, 62, 69, 72]
+  IC: 0.039948
+  Plaintext: XUXRSMPSKAULSTMEILOSSWCYRJUFNNTFBPTVUSMJFQQLEDVSMPVIIPOBNDZLLEBKNPLSXLZLKHSSWRCCVAWDIBTNDPAVIJUEY...
+
+Rank 36:
+  Keyword: LISTEN
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 13, 62, 63, 64]
+  IC: 0.039948
+  Plaintext: OBHSNISNDLLAYTITWIAYQFZNOPSOQZCJYTNBRWQTMSBBCLURTFZIFWRCBZPXEFBERJQAVOQKIFOEEMSOXIHDUIORJOXPAFFEO...
+
+Rank 37:
+  Keyword: MODGNIKLAMINA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [10, 12, 64, 65, 72]
+  IC: 0.039734
+  Plaintext: FVGQHKSEYKEESBKNGGUSQMCEJHQFJLXIJBERRFJBAQRRDLURTZPNOLRWATPNFMVFRLQQEEQIKOJZYASJHNOXOGCRNJRPMOZYF...
+
+Rank 38:
+  Keyword: FEEDBACK
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 64, 69, 71, 72]
+  IC: 0.039734
+  Plaintext: MVBQNKSLYKLLSIKABBUSQFJLONQMOGXCOILRRMOIHQRRDGURTZPAEGRWHTPAMFVMRGQQLLQCKEOZYHSONAEXEBJRAORPFEZYM...
+
+Rank 39:
+  Keyword: OBSERVATION
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 13, 64, 65, 72]
+  IC: 0.039734
+  Plaintext: YVJDOSSXFNMRSTSKDKUSQHQYYRUQBDELYTXFRASTOUBBBNURTFDKHNSEIZPEIHVIRLAEZRQMKHOGGOSOBKJFBKQSLPXQZHHEZ...
+
+Rank 40:
+  Keyword: OBSERVATIONS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 13, 64, 65, 72]
+  IC: 0.039734
+  Plaintext: YVJDOSSXFNMRSTSKDKUSQHQYYRUQBDELYTXFRASTOUBBBNURTFDKHNSEIZPEIHVIRLAEZRQMKHOGGOSOBKJFBKQSLPXQZHHEZ...
+
+Rank 41:
+  Keyword: PAPERBACK
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 16, 70, 71, 72]
+  IC: 0.039734
+  Plaintext: JVROLKSIYKIISGKBRRUSOPHIMLOJMDXCMGIQQJMGFOQQEDUQTZNBADQWFTNBJPVJQDOOIIOCKAMZYFSMLBAXARHQBMQNPAZYJ...
+
+Rank 42:
+  Keyword: FEEDBACK
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 64, 69, 71, 72]
+  IC: 0.039734
+  Plaintext: MVBQNKSLYKLLSIKABBUSQFJLONQMOGXCOILRRMOIHQRRDGURTZPAEGRWHTPAMFVMRGQQLLQCKEOZYHSONAEXEBJRAORPFEZYM...
+
+Rank 43:
+  Keyword: OBSERVATIONS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 13, 64, 65, 72]
+  IC: 0.039734
+  Plaintext: YVJDOSSXFNMRSTSKDKUSQHQYYRUQBDELYTXFRASTOUBBBNURTFDKHNSEIZPEIHVIRLAEZRQMKHOGGOSOBKJFBKQSLPXQZHHEZ...
+
+Rank 44:
+  Keyword: PAPERBACK
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 16, 70, 71, 72]
+  IC: 0.039734
+  Plaintext: JVROLKSIYKIISGKBRRUSOPHIMLOJMDXCMGIQQJMGFOQQEDUQTZNBADQWFTNBJPVJQDOOIIOCKAMZYFSMLBAXARHQBMQNPAZYJ...
+
+Rank 45:
+  Keyword: OBSERVATION
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 13, 64, 65, 72]
+  IC: 0.039734
+  Plaintext: YVJDOSSXFNMRSTSKDKUSQHQYYRUQBDELYTXFRASTOUBBBNURTFDKHNSEIZPEIHVIRLAEZRQMKHOGGOSOBKJFBKQSLPXQZHHEZ...
+
+Rank 46:
+  Keyword: MODGNIKLAMINA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword plaintext alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [10, 12, 64, 65, 72]
+  IC: 0.039734
+  Plaintext: FVGQHKSEYKEESBKNGGUSQMCEJHQFJLXIJBERRFJBAQRRDLURTZPNOLRWATPNFMVFRLQQEEQIKOJZYASJHNOXOGCRNJRPMOZYF...
+
+Rank 47:
+  Keyword: AUSTRALIA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.039519
+  Plaintext: QBIDUKSPEMSFYTKYBJAYQGEYORUQBLDKYTPBRWSTNUBBIMURTZZJGBYCGTPCQGBQRLQAVPQLKGOFENSOXJHDZJPYKVRWGGFYZ...
+
+Rank 48:
+  Keyword: AUSTRALIA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.039519
+  Plaintext: QBIDUKSPEMSFYTKYBJAYQGEYORUQBLDKYTPBRWSTNUBBIMURTZZJGBYCGTPCQGBQRLQAVPQLKGOFENSOXJHDZJPYKVRWGGFYZ...
+
+Rank 49:
+  Keyword: LAWSUIT
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 62, 64, 65, 72]
+  IC: 0.039089
+  Plaintext: QBIUXKSPEMVAYUKTAJAYWGZPPRUQSLDKZUPEXZSUNUCCIMURZACJGWBCFUVBQGBQRLRDYPQLKGUFENSOAJHDYJPBKYSZGGFZQ...
+
+Rank 50:
+  Keyword: RELY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.039089
+  Plaintext: JXLBTNVZGERANINBDAPUAUKSKMXJNOVFZFZXNLVFIXNQLYSAPXVCBWNXQONMJBEJPOMPRIOCDBYXZQNMTCYGZESNYYMVJSWHX...
+
+Rank 51:
+  Keyword: RELY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.039089
+  Plaintext: JXLBTNVZGERANINBDAPUAUKSKMXJNOVFZFZXNLVFIXNQLYSAPXVCBWNXQONMJBEJPOMPRIOCDBYXZQNMTCYGZESNYYMVJSWHX...
+
+Rank 52:
+  Keyword: LAWSUIT
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 62, 64, 65, 72]
+  IC: 0.039089
+  Plaintext: QBIUXKSPEMVAYUKTAJAYWGZPPRUQSLDKZUPEXZSUNUCCIMURZACJGWBCFUVBQGBQRLRDYPQLKGUFENSOAJHDYJPBKYSZGGFZQ...
+
+Rank 53:
+  Keyword: REQUINS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 17, 63, 70, 72]
+  IC: 0.038875
+  Plaintext: QTAZZTSOOMXIZTTJHTBQLGNHOPMQQEDZAXOMRTKXMMFBBMSLTXKJVEABYAWUEFUEPDQXGQOVKVJFDFSMIJGOXYHAIJYBZGEAV...
+
+Rank 54:
+  Keyword: REQUINS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 17, 63, 70, 72]
+  IC: 0.038875
+  Plaintext: QTAZZTSOOMXIZTTJHTBQLGNHOPMQQEDZAXOMRTKXMMFBBMSLTXKJVEABYAWUEFUEPDQXGQOVKVJFDFSMIJGOXYHAIJYBZGEAV...
+
+Rank 55:
+  Keyword: REPSIHW
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 13, 14, 63, 69]
+  IC: 0.038875
+  Plaintext: CSMOTNVMIHRANTNEGNPPDUDRVOGKPOYAUHMXOMEHLGPBMYBDQWVFWWPASONOEEZEPOXQRLXPEWBACRNMTFYHCHTPYBMVKSWKK...
+
+Rank 56:
+  Keyword: LASTING
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 13, 62, 63, 64]
+  IC: 0.038875
+  Plaintext: OBHSNISNYLLAYTITZJAYQGZNOPSOQZXJYTNBRWQTMSBBILURTAZIFWRCEUPAEGBERJQAVOQLIFOZEMSOXIHDXDORJOSPGFFZO...
+
+Rank 57:
+  Keyword: REPSIHW
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 13, 14, 63, 69]
+  IC: 0.038875
+  Plaintext: CSMOTNVMIHRANTNEGNPPDUDRVOGKPOYAUHMXOMEHLGPBMYBDQWVFWWPASONOEEZEPOXQRLXPEWBACRNMTFYHCHTPYBMVKSWKK...
+
+Rank 58:
+  Keyword: REQUINS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 17, 63, 70, 72]
+  IC: 0.038875
+  Plaintext: QTAZZTSOOMXIZTTJHTBQLGNHOPMQQEDZAXOMRTKXMMFBBMSLTXKJVEABYAWUEFUEPDQXGQOVKVJFDFSMIJGOXYHAIJYBZGEAV...
+
+Rank 59:
+  Keyword: LASTING
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 13, 62, 63, 64]
+  IC: 0.038875
+  Plaintext: OBHSNISNYLLAYTITZJAYQGZNOPSOQZXJYTNBRWQTMSBBILURTAZIFWRCEUPAEGBERJQAVOQLIFOZEMSOXIHDXDORJOSPGFFZO...
+
+Rank 60:
+  Keyword: GOVERNMENTS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [20, 63, 70, 71, 72]
+  IC: 0.038445
+  Plaintext: ZTCDBVSDONZKBLVLVADQAIPIVYAQQGRKLZDORXYZNAHTTOSLTXMLGGSDYCOUEHYEPFXBIFOCKGYTFHSTKLIBIAJSKLADRIGSZ...
+
+Rank 61:
+  Keyword: GOVERNMENTS
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [20, 63, 70, 71, 72]
+  IC: 0.038445
+  Plaintext: ZTCDBVSDONZKBLVLVADQAIPIVYAQQGRKLZDORXYZNAHTTOSLTXMLGGSDYCOUEHYEPFXBIFOCKGYTFHSTKLIBIAJSKLADRIGSZ...
+
+Rank 62:
+  Keyword: REQUINTO
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 17, 63, 70, 72]
+  IC: 0.038015
+  Plaintext: FTBZNTSPONLJATTKITCQMHOIOENQQFEZALPNRTLLNNTBBNSLTXLKVFACYBWUEGUEPEQXHROVKVKGEGSMJKHAXYIAJKZPZHFAV...
+
+Rank 63:
+  Keyword: EXPERIENCES
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 14, 20, 69, 70]
+  IC: 0.038015
+  Plaintext: CSMPWNYNJIUDNTNEGOPPAUDVVCXLPOZIUINXOMVILXQBNXSDQAVFEZPBSONOMBHMPOXQRLOQFEYBDRNMTFYIZHTPXCMYLRWKL...
+
+Rank 64:
+  Keyword: EXPERIENCES
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 14, 20, 69, 70]
+  IC: 0.038015
+  Plaintext: CSMPWNYNJIUDNTNEGOPPAUDVVCXLPOZIUINXOMVILXQBNXSDQAVFEZPBSONOMBHMPOXQRLOQFEYBDRNMTFYIZHTPXCMYLRWKL...
+
+Rank 65:
+  Keyword: REQUINTO
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 17, 63, 70, 72]
+  IC: 0.038015
+  Plaintext: FTBZNTSPONLJATTKITCQMHOIOENQQFEZALPNRTLLNNTBBNSLTXLKVFACYBWUEGUEPEQXHROVKVKGEGSMJKHAXYIAJKZPZHFAV...
+
+Rank 66:
+  Keyword: BELL
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.037801
+  Plaintext: MTWQLTSJOHJARHTVCTTQGBJCOLHMMZYEFJJIRKFJHHRPSISHTXGFAWRTYWNUMALMPYQOCLOVGAEAVBSMEFCNCYDRDFUNQCAOM...
+
+Rank 67:
+  Keyword: BELLE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.037801
+  Plaintext: MTWQLTSJOHJARHTVCTTQGBJCOLHMMZYEFJJIRKFJHHRPSISHTXGFAWRTYWNUMALMPYQOCLOVGAEAVBSMEFCNCYDRDFUNQCAOM...
+
+Rank 68:
+  Keyword: KYLE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 69, 71]
+  IC: 0.037801
+  Plaintext: AQKOINQIFCGSSENEBAUNABHSMXXKZOYYXHIXPHVHGXPMYHPARUVEUOPRPRKLZUEZMOOLRLLCEUYATPQJTEWGBBRPCYPKWBUHK...
+
+Rank 69:
+  Keyword: RELAY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.037801
+  Plaintext: JYLBTNVZGERANINBDAPVAUKSKMXJNOUFAFZXNLVFIXNQLYSAPXVCBWNWQONMJBEJPOMPRIOCDBYWYQNMTCYGZESNYXMVJSWHX...
+
+Rank 70:
+  Keyword: RELY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 69, 71]
+  IC: 0.037801
+  Plaintext: AQLPJNQIGAHAUFNEBAWNABHSMKXLZOYWZIIXPIVIGXQNLHPARUVESWXRQRLMMUEMMOOMRLLCFSYATQQRTEWGBBSXCYPLJBUHL...
+
+Rank 71:
+  Keyword: KYLE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 69, 71]
+  IC: 0.037801
+  Plaintext: AQKOINQIFCGSSENEBAUNABHSMXXKZOYYXHIXPHVHGXPMYHPARUVEUOPRPRKLZUEZMOOLRLLCEUYATPQJTEWGBBRPCYPKWBUHK...
+
+Rank 72:
+  Keyword: RELY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 69, 71]
+  IC: 0.037801
+  Plaintext: AQLPJNQIGAHAUFNEBAWNABHSMKXLZOYWZIIXPIVIGXQNLHPARUVESWXRQRLMMUEMMOOMRLLCFSYATQQRTEWGBBSXCYPLJBUHL...
+
+Rank 73:
+  Keyword: RELAY
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.037801
+  Plaintext: JYLBTNVZGERANINBDAPVAUKSKMXJNOUFAFZXNLVFIXNQLYSAPXVCBWNWQONMJBEJPOMPRIOCDBYWYQNMTCYGZESNYXMVJSWHX...
+
+Rank 74:
+  Keyword: BELLE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.037801
+  Plaintext: MTWQLTSJOHJARHTVCTTQGBJCOLHMMZYEFJJIRKFJHHRPSISHTXGFAWRTYWNUMALMPYQOCLOVGAEAVBSMEFCNCYDRDFUNQCAOM...
+
+Rank 75:
+  Keyword: BELL
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.037801
+  Plaintext: MTWQLTSJOHJARHTVCTTQGBJCOLHMMZYEFJJIRKFJHHRPSISHTXGFAWRTYWNUMALMPYQOCLOVGAEAVBSMEFCNCYDRDFUNQCAOM...
+
+Rank 76:
+  Keyword: REQUITEMENT
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 17, 20, 70, 72]
+  IC: 0.037156
+  Plaintext: QTBZNTSDONLJATTKITCQAHOIOPNQQFEZALDNRTLLNNTBBNSLTXLKVFACYBWUGGUGPEQXHFOVKVYGEGSMJKHZXYIAJKZPZHFAV...
+
+Rank 77:
+  Keyword: SYRIA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 67, 69]
+  IC: 0.037156
+  Plaintext: MQMQKNQAHHICSGNWBMUNABISTKXMLOYDXJAXPJVJGXROLIPBRUVFZYZRRRMNMUFMTOVNRLLOGZYATRQTTFWGCBTZCYPMJCUIM...
+
+Rank 78:
+  Keyword: SYRIA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 67, 69]
+  IC: 0.037156
+  Plaintext: MQMQKNQAHHICSGNWBMUNABISTKXMLOYDXJAXPJVJGXROLIPBRUVFZYZRRRMNMUFMTOVNRLLOGZYATRQTTFWGCBTZCYPMJCUIM...
+
+Rank 79:
+  Keyword: REQUITEMENT
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 17, 20, 70, 72]
+  IC: 0.037156
+  Plaintext: QTBZNTSDONLJATTKITCQAHOIOPNQQFEZALDNRTLLNNTBBNSLTXLKVFACYBWUGGUGPEQXHFOVKVYGEGSMJKHZXYIAJKZPZHFAV...
+
+Rank 80:
+  Keyword: BACK
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036942
+  Plaintext: MTUQLXSJOHJARHXECTTQGBJCOLHMMYYEFJJIRKFJHHRPSASHTXGFAWRTYUNUMZLMPYQOCLOVGAEAVZSMEFANCCBRDXSNQUYOM...
+
+Rank 81:
+  Keyword: BALD
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036942
+  Plaintext: MTUQLXSJOHJARHXVCTTQGBJCOLHMMXYEFJJIRKFJHHRPSISHTXGFAWRTYUNUMYLMPYQOCLOVGAEAVZSMEFANCCBRDFSNQCYOM...
+
+Rank 82:
+  Keyword: BALD
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036942
+  Plaintext: MTUQLXSJOHJARHXVCTTQGBJCOLHMMXYEFJJIRKFJHHRPSISHTXGFAWRTYUNUMYLMPYQOCLOVGAEAVZSMEFANCCBRDFSNQCYOM...
+
+Rank 83:
+  Keyword: BACK
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036942
+  Plaintext: MTUQLXSJOHJARHXECTTQGBJCOLHMMYYEFJJIRKFJHHRPSASHTXGFAWRTYUNUMZLMPYQOCLOVGAEAVZSMEFANCCBRDXSNQUYOM...
+
+Rank 84:
+  Keyword: RELAX
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.036727
+  Plaintext: JSLBTNVZGERANINBDAPPAUKYKMXJNOUFUFZXNLVFIXNQLYSAPDVCBWNWQONMJBEJPOMPRIOCDBYWYQNMTCYGZESNYXMVJSWHX...
+
+Rank 85:
+  Keyword: RELAX
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + High IC pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 14, 20, 70, 71]
+  IC: 0.036727
+  Plaintext: JSLBTNVZGERANINBDAPPAUKYKMXJNOUFUFZXNLVFIXNQLYSAPDVCBWNWQONMJBEJPOMPRIOCDBYWYQNMTCYGZESNYXMVJSWHX...
+
+Rank 86:
+  Keyword: DISEQUILIBRIA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.036512
+  Plaintext: QBIHYKSPEMWGYTKZWJAYQGFCOBEQFLDKYTPSRNCTNEBBBMURTIQJGCCTBCPXQGBQRLQRMPQLKGOFVNSOOJJUUJPCKZAAZGHHD...
+
+Rank 87:
+  Keyword: LAUTRIV
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 62, 64, 65, 72]
+  IC: 0.036512
+  Plaintext: QBIDVKSPEMTAYMKTAJAYQGZYZRUQBLDKRMPBRWSMNUUUIMURTAZJGWZCFUPBQGBQRLBAVPQLKGOFENSOXJHDYJPZKWSXGGFZZ...
+
+Rank 88:
+  Keyword: BACKED
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036512
+  Plaintext: MTUQLWSJOHJARHWECTTQGBJCOLHMMZYEFJJIRKFJHHRPSASHTXGFAWRTYUNUMALMPYQOCLOVGAEAVZSMEFANCBBRDXSNQUYOM...
+
+Rank 89:
+  Keyword: BALL
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036512
+  Plaintext: MTUQLXSJOHJARHXVCTTQGBJCOLHMMYYEFJJIRKFJHHRPSISHTXGFAWRTYUNUMZLMPYQOCLOVGAEAVZSMEFANCCBRDFSNQCYOM...
+
+Rank 90:
+  Keyword: BLADE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036512
+  Plaintext: MTVQLWSJOHJARHWUCTTQGBJCOLHMMXYEFJJIRKFJHHRPSISHTXGFAWRTYVNUMYLMPYQOCLOVGAEAVASMEFBNCBCRDFTNQCZOM...
+
+Rank 91:
+  Keyword: DYLAN
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 69, 71]
+  IC: 0.036512
+  Plaintext: AQKOINQIGGGSSFNEBAUNABHSMKXLZORCXHIXPXVHZXPNLHPARUVEYOPRPRKLMUEMMOOBRLLCFYYTTPQJTEWGBARPCXPKJBUHK...
+
+Rank 92:
+  Keyword: BLADE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036512
+  Plaintext: MTVQLWSJOHJARHWUCTTQGBJCOLHMMXYEFJJIRKFJHHRPSISHTXGFAWRTYVNUMYLMPYQOCLOVGAEAVASMEFBNCBCRDFTNQCZOM...
+
+Rank 93:
+  Keyword: BALL
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036512
+  Plaintext: MTUQLXSJOHJARHXVCTTQGBJCOLHMMYYEFJJIRKFJHHRPSISHTXGFAWRTYUNUMZLMPYQOCLOVGAEAVZSMEFANCCBRDFSNQCYOM...
+
+Rank 94:
+  Keyword: DISEQUILIBRIA
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [13, 62, 64, 65, 72]
+  IC: 0.036512
+  Plaintext: QBIHYKSPEMWGYTKZWJAYQGFCOBEQFLDKYTPSRNCTNEBBBMURTIQJGCCTBCPXQGBQRLQRMPQLKGOFVNSOOJJUUJPCKZAAZGHHD...
+
+Rank 95:
+  Keyword: BACKED
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036512
+  Plaintext: MTUQLWSJOHJARHWECTTQGBJCOLHMMZYEFJJIRKFJHHRPSASHTXGFAWRTYUNUMALMPYQOCLOVGAEAVZSMEFANCBBRDXSNQUYOM...
+
+Rank 96:
+  Keyword: DYLAN
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Alternative pattern
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 14, 20, 69, 71]
+  IC: 0.036512
+  Plaintext: AQKOINQIGGGSSFNEBAUNABHSMKXLZORCXHIXPXVHZXPNLHPARUVEYOPRPRKLMUEMMOOBRLLCFYYTTPQJTEWGBARPCXPKJBUHK...
+
+Rank 97:
+  Keyword: LAUTRIV
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Standard keyword alphabet
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 62, 64, 65, 72]
+  IC: 0.036512
+  Plaintext: QBIDVKSPEMTAYMKTAJAYQGZYZRUQBLDKRMPBRWSMNUUUIMURTAZJGWZCFUPBQGBQRLBAVPQLKGOFENSOXJHDYJPZKWSXGGFZZ...
+
+Rank 98:
+  Keyword: ABLE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 17, 68, 69, 70]
+  IC: 0.036297
+  Plaintext: MTTQLVSJOHJBSHVVCTUQGBJCOLHMMZYEFJJIRKFJHHRPSISHTXGFAXRUYTNUMALMPYQOCLOVGAEAWYSMEFZNCAARDFRNQCXOM...
+
+Rank 99:
+  Keyword: BEHALF
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [11, 17, 68, 69, 70]
+  IC: 0.036297
+  Plaintext: MTWQLTSJOBJARHTXDTTQGAJWOLIMMBZEFJJIRKGJBIRPSISHTXGFAWRTYWNUMCLMPXQOCLOVGAEBVBSMEFCNCYDRCFUNQCAOM...
+
+Rank 100:
+  Keyword: ABLE
+  Primer: [2, 6, 7, 1, 7] (10) - Best performer - Bean's research
+  Pattern: Keyword + Minor differences analysis
+  Expansion: standard
+  Match: 20.83% (5/24)
+  Matched positions: [12, 17, 68, 69, 70]
+  IC: 0.036297
+  Plaintext: MTTQLVSJOHJBSHVVCTUQGBJCOLHMMZYEFJJIRKFJHHRPSISHTXGFAXRUYTNUMALMPYQOCLOVGAEAWYSMEFZNCAARDFRNQCXOM...
+
